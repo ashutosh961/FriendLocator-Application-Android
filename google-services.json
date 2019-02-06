@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375779376298",
+    "firebase_url": "https://precise-truck-140412.firebaseio.com",
+    "project_id": "precise-truck-140412",
+    "storage_bucket": "precise-truck-140412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375779376298:android:213fc950df0e9594",
+        "android_client_info": {
+          "package_name": "com.example.ashutosh.mapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375779376298-dsh87erhsqjkhf563avlllpjopd7nsca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashutosh.mapapplication",
+            "certificate_hash": "367AC51531BB5BF7EFF1C7470516C262BCA49B13"
+          }
+        },
+        {
+          "client_id": "375779376298-85eb54covlqjpu0dbjeap47bevh0a99o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyT0YAbrGaLmJ-lloYENUvl3GYpYbdUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375779376298-85eb54covlqjpu0dbjeap47bevh0a99o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
